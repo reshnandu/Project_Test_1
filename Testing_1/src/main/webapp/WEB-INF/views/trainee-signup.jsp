@@ -5,6 +5,7 @@
 <title>Insert title here</title>
 </head>
 	<body>
+		<h1>Training Mangement Appilication</h1>
 		<h1>Front-End : Reshma Nimmaka</h1>
 		<h1><%=request.getAttribute("msg")%></h1>
 		<p>FirstName : <%=request.getAttribute("first_name")%> </p>
